@@ -1,4 +1,4 @@
-# Inequality-Constraints-on-State-Variables
+# Inequality-Constraints-On-State-Variables
 General optimal programming problems with inequality constraints on functions of state variables.
 
 # References
