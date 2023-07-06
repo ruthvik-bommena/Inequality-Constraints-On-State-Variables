@@ -8,7 +8,7 @@ function MinimumTimeBrachistochrone_LinearConstraint
 %    Description:   Function to solve minimum-time Brachistochrone problem
 %                   subject to a linear path constraint x + y >= -1.5
 %    References:    Ch 3. Applied Optimal Control, 1975, A.E. Bryson. Jr, Yu-Chi Ho
-%                   Antony, T., & Grant, M. J. (2018). Path constraint regularization in optimal control problems using saturation functions. 2018 AIAA Atmospheric Flight Mechanics Conference. https://doi.org/10.2514/6.2018-0018                 
+%                   Antony, T., & Grant, M. J. (2018). Path constraint regularization in optimal control problems using saturation functions. 2018 AIAA Atmospheric Flight Mechanics Conference.                 
 
 clear; close all; clc;
 
